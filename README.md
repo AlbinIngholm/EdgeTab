@@ -2,6 +2,13 @@
 
 A fresh, modern and minimal new tab page for your browser.
 
+**This is a fork of EdgeTab, which adds the following features:**
+- Support for Static Images
+- Custom Image Upload
+- A Toggle Button between Static and Video Background
+- User Preference stored in localStorage, which provides consistent state between sessions and refreshes.
+- Minimal styling improvements 
+
 ## Development
 
 Requires Node 22 and npm 10. Using the development server only works on Chrome, on Firefox you have to build and install the extension manually (see below)
